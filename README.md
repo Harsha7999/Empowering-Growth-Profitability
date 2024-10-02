@@ -61,9 +61,32 @@ Country 4: ≈ $990,000                    Country 9: ≈ $99,780
 Country 5: ≈ $99,960                     Country 10: ≈ $99,750
 
 **Steps:** <br>
-I)Extract and rank countries by revenue.
-II)Exclude the United Kingdom.
+I)Extract and rank countries by revenue. <br>
+II)Exclude the United Kingdom. <br>
 III)Select the top 10 countries and include quantity sold. <br>
+![Screenshot (1658)](https://github.com/user-attachments/assets/45b54e2e-d142-4215-bfa9-732585bad429) <br>
+![Screenshot (1659)](https://github.com/user-attachments/assets/324d8276-9999-42b9-8641-cb4aca54bcb1) <br>
+
+ # TASK 3: Rank Customers by Revenue in Descending Order
+
+**Detailed Information:**
+**CustomerID:** Various IDs with revenue counts ranging from 0K to about 19K. <br>
+**Revenue Values:** Detailed counts for each CustomerID.<br>
+
+**Steps:** <br>
+Extract revenue data for each CustomerID.<br>
+Rank customers by revenue in descending order.<br>
+Select the top 10 customers for visualization.<br>
+**Visualization:**
+A bar chart showing the top 10 customers by revenue, sorted in descending order, will effectively illustrate the data.
+
+
+**Customer Base:** The visual suggests a relatively large customer base. Important considerations include:
+**Customer Count Over Time:** How does the number of customers change over time? Are there any trends in customer acquisition or churn?
+**Revenue Distribution:** Analyzing the relationship between customer count and revenue can help determine if the business focuses on a few high-value customers or relies on a broader base of smaller-value customers. This information is crucial for shaping customer retention strategies and loyalty programs.<br>
+
+
+
 
 
 
