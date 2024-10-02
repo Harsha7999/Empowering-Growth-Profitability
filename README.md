@@ -17,7 +17,7 @@ By integrating geographical data from Bing Maps and OpenStreetMap, these visuali
 
 # TASK 1: Visualize Monthly Revenue for the Year 2011 to Identify Seasonal Trends
 
---Detailed Information:--<br>
+**Detailed Information:** <br>
 
 January: Approximately 50K transactions.
 February: Slightly higher than January.
