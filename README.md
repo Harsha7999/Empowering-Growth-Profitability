@@ -102,7 +102,7 @@ A bar chart showing the top 10 customers by revenue, sorted in descending order,
 
 **Countries:** Displays various countries with aggregated unit prices.<br>
 **Map Sources:** Geographical context provided by Bing Maps and OpenStreetMap.<br>
-**Steps:** <br>
+<br> **Steps:** <br>
 Extract demand data for each country.<br>
 Exclude the United Kingdom.<br>
 Highlight high-demand regions.<br>
