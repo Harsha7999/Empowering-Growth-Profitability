@@ -81,9 +81,40 @@ Select the top 10 customers for visualization.<br>
 A bar chart showing the top 10 customers by revenue, sorted in descending order, will effectively illustrate the data.
 
 
-**Customer Base:** The visual suggests a relatively large customer base. Important considerations include:
-**Customer Count Over Time:** How does the number of customers change over time? Are there any trends in customer acquisition or churn?
+**Customer Base:** The visual suggests a relatively large customer base. Important considerations include:<br>
+**Customer Count Over Time:** How does the number of customers change over time? Are there any trends in customer acquisition or churn?<br>
 **Revenue Distribution:** Analyzing the relationship between customer count and revenue can help determine if the business focuses on a few high-value customers or relies on a broader base of smaller-value customers. This information is crucial for shaping customer retention strategies and loyalty programs.<br>
+
+![Screenshot (1661)](https://github.com/user-attachments/assets/c37ac6ff-3d35-4ea0-93ec-a1e8f24de726)<br>
+![Screenshot (1662)](https://github.com/user-attachments/assets/07090e8e-8dce-4552-9ccf-d282983afcef)<br>
+
+# TASK 4: Map Total Demand by Country (Excluding the UK) to Identify High-Potential Regions for Expansion <br>
+
+**Demand Mapping Overview:** This map visualizes product demand across different countries, offering key insights for:<br>
+**Identifying High-Potential Expansion Areas:** Focus on regions with significant demand where the business can leverage existing customer interest to expand.<br>
+**Evaluating Market Penetration:** Pinpoint regions with high demand but low market presence to uncover opportunities for growth.<br>
+**Understanding Regional Variations:** Analyze how demand varies by region to tailor product development and marketing strategies to local preferences.<br>
+**Market Research Applications:** This visualization serves as a foundation for in-depth market research, helping you:<br>
+**Analyze Demand Drivers:** Explore factors influencing demand in specific regions, such as economic conditions, cultural trends, and consumer demographics.<br>
+**Identify Potential Challenges:** Recognize potential obstacles in various markets, including competition and regulatory issues.<br>
+
+**Detailed Information:** <br>
+
+**Countries:** Displays various countries with aggregated unit prices.<br>
+**Map Sources:** Geographical context provided by Bing Maps and OpenStreetMap.<br>
+**Steps:** <br>
+Extract demand data for each country.<br>
+Exclude the United Kingdom.<br>
+Highlight high-demand regions.<br>
+This visualization offers valuable insights into seasonal trends, top-performing countries and customers, and potential areas for expansion, supporting strategic decision-making.<br>
+
+![Screenshot (1664)](https://github.com/user-attachments/assets/ff468e7a-baa5-4334-881a-67c9b185b56a)<br>
+![Screenshot (1665)](https://github.com/user-attachments/assets/5e93f251-1fae-4bb2-85b2-1129ac2ac1e7)<br>
+
+
+
+
+
 
 
 
